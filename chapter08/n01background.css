@@ -1,0 +1,8 @@
+.outer {
+  height: 100vh;
+}
+
+.with-bg {
+  background-image: url(./mona-lisa.jpg);
+  background-size: cover;
+}

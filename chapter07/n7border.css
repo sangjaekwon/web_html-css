@@ -1,0 +1,8 @@
+/* ul > li:not(:last-child) {
+  border-bottom: 1px solid black;
+} */
+
+
+ul > li:not(:first-child) {
+  border-top: 2px dotted red;
+}

@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+}
+div {
+  width: 200px;
+  height: 200px;
+  background-color: lightcoral;
+  margin: 0 auto;
+  display: inline-block;
+}
